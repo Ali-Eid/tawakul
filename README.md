@@ -1,12 +1,10 @@
 
 <div dir="rtl">
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SAFI174/tawakkul/main/logos/icon-07-modified%20(Small).png" width="200" height="200"/>
-</div>
 
-# Tawakkul App
 
-Tawakkul is a comprehensive Islamic application that provides a range of features to support your Islamic lifestyle.
+# Ayat App
+
+Ayat is a comprehensive Islamic application that provides a range of features to support your Islamic lifestyle.
 
 ## Features
 
@@ -38,5 +36,5 @@ Tawakkul is a comprehensive Islamic application that provides a range of feature
 | ![Description 1](screenshots/5.png)         | ![Description 2](screenshots/4.png)         |
 
 <p align="center">
-  Made with passion ❤️ by mohamed elhaddad
+  Made with passion ❤️ by Ali Eid
 </p>
